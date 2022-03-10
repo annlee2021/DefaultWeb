@@ -22,3 +22,5 @@ Commit #12 during squash activity
 
 Commit #13 during squash activity
 
+commit #1 on master
+
