@@ -36,3 +36,5 @@ change on Dev2/feature2
 
 started rebase on dev2 / feature 2 commit1
 
+started rebase on dev2 / feature 2 commit2
+
