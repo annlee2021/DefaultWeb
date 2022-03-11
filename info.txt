@@ -33,3 +33,11 @@ feature commit 2
 feature commit 3
 
 change on Dev2/feature2
+
+squash commit1 on Dev4/feature4
+
+squash commit2 on Dev4/feature4
+
+squash commit3 on Dev4/feature4
+
+squash commit4 on Dev4/feature4
