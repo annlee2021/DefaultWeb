@@ -31,3 +31,5 @@ squash commit2 on Dev4/feature4
 squash commit3 on Dev4/feature4
 
 squash commit4 on Dev4/feature4
+
+this is commit without the last merge change from master
