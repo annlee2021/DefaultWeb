@@ -22,6 +22,16 @@ Commit #12 during squash activity
 
 Commit #13 during squash activity
 
+commit #1 on master
+
+commit #2 on master
+
+feature commit 1
+
+feature commit 2
+
+feature commit 3
+
 change on Dev2/feature2
 
 squash commit1 on Dev4/feature4
@@ -32,5 +42,10 @@ squash commit3 on Dev4/feature4
 
 squash commit4 on Dev4/feature4
 
+this is commit without the last merge change from master
+
 no more commit after this line
 
+Chery pick domo commit 1
+
+Chery pick domo commit 2
